@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/saterco-price-tracker.git
+git clone https://github.com/yourusername/WooCommerce-Product-Price-Tracker.git
 cd saterco-price-tracker
 ```
 
